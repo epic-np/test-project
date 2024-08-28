@@ -40,4 +40,3 @@ func player_movement(delta):
 		#play_animation(0)
 	
 	move_and_slide()
-
